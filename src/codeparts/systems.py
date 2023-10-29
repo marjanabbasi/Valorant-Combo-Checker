@@ -10,8 +10,10 @@ from colorama import Fore, Back
 import requests
 from InquirerPy import inquirer
 from InquirerPy.separator import Separator
-from pandas import Timestamp
-
+try:
+    from pandas import Timestamp
+except Exception as e:
+    print(e)
 from codeparts import checkers, PCSS
 from codeparts.data import Constants
 

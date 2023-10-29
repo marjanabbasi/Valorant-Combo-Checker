@@ -2,12 +2,12 @@
   Working.
 </h1>
 
-[![CodeFactor](https://www.codefactor.io/repository/github/Settine/Valorant-Combo-Checker/badge/main)](https://www.codefactor.io/repository/github/Settine/Valorant-Combo-Checker/badge/main)
+- You must run setup.bat as administrator before starting to use!
 <h1 align="center">
   Valorant Combo Checker
 </h1>
 
-![image](https://user-images.githubusercontent.com/82034934/191281792-6b45244e-9635-45a5-b6e8-529ff6d93268.png)
+![image](https://user-images.githubusercontent.com/90693180/180217407-bf6e6ad4-f7d3-4cdf-8d34-d2d5a94dc342.png)
 
 <h2 align="center">
   Python program to check valorant combos

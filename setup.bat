@@ -1,17 +1,19 @@
 @echo off
 
-pip install urllib3
-pip install requests
-pip install fernet
-pip install cryptography
-pip install colorama
-pip install importlib
-pip install pandas
-pip install keyboard
-pip install inquirerpy
-pip install pycryptodome
-pip install aiohttp
-pip install pyautogui
+python -m pip install --upgrade pip
+python -m pip install Pillow==9.5.0
+python -m pip install --upgrade urllib3
+python -m pip install --upgrade requests
+python -m pip install --upgrade fernet
+python -m pip install --upgrade cryptography
+python -m pip install --upgrade colorama
+python -m pip install --upgrade importlib
+python -m pip install pandas==2.0.0
+python -m pip install --upgrade keyboard
+python -m pip install --upgrade inquirerpy
+python -m pip install --upgrade pycryptodome
+python -m pip install --upgrade aiohttp
+python -m pip install --upgrade pyautogui
 
 cls
 

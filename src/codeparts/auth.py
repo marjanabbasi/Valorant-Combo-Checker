@@ -6,7 +6,11 @@ import ssl
 from typing import Any
 from tkinter import *
 
-import pandas
+try:
+    import pandas
+except Exception as e:
+    print(e)
+
 import requests
 from requests.adapters import HTTPAdapter
 

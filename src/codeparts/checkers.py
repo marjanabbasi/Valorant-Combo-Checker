@@ -1,7 +1,11 @@
 import os
 import requests
 import json
-import pandas
+
+try:
+    import pandas
+except Exception as e:
+    print(e)
 
 from codeparts.data import Constants
 
